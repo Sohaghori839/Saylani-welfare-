@@ -1,0 +1,387 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    text-decoration: none;
+}
+.right{
+    margin: 12px 0px 0px 0px;
+}
+.icon-tag{
+    color: #fff;
+    padding: 15px 10px 10px 10px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+    background-color: rgb(49,109,195);
+}
+.leftmain{
+    border: solid whitesmoke;
+    justify-content: space-around;
+}
+
+
+
+
+.secmain{
+   
+   display:flex;
+}
+ul {
+    text-decoration: none;
+    color: black;
+    display: block;
+   
+   
+    
+}
+ul li{
+    
+    width: 100;
+    height: 100;
+    display: inline-block;
+
+}
+ul li a{
+    text-decoration: none;
+    display: block;
+    
+   
+}
+body{
+    color: white;
+    
+}
+
+.logo{
+    padding: 10px 0px 0px 105px;
+    width:150;
+    
+}
+
+
+.nav-bar {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    line-height: 1.75;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+} 
+.nav-list {
+    padding: 4px 15px;
+    float: left;
+    border-radius: 30px;
+}
+.nav-list-home{
+    float: left;
+    padding: 4px 15px;
+    border-radius: 30px;
+    background-color: blue;
+    color: #fff;
+}
+
+.nav-list:hover{
+    background-color: blue;
+    color: #fff;
+}
+
+.nav-ul{
+    color: black;
+    background-color:white;
+    margin:0;
+    padding:10;
+}
+
+.marquee {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(49, 109, 195);
+    width: 86.5%;
+    font-size: 0.85em;
+    color: white;
+    
+}
+.marquee p {
+    margin: 0px;
+    padding: 5px 0px;
+    
+}
+.mar{
+    text-align: center;
+}
+.con-int{
+    background-color: rgb(247,248,250);
+    text-align: center;
+    
+}
+.contain{
+    margin: 0px auto;
+    width: 70%;
+    padding: 30px 0px;
+}
+.ccc{
+    background-color: #f7f8fa;
+}
+.intro{
+    color:rgb(49,109,195);
+    
+}
+.duction{
+    color:rgb(41, 145, 41);
+}
+.img{
+    margin: 20px;
+    width: 200;
+}
+.img-line{
+    color:green;
+    margin: 10px;
+    
+}
+.paragraph{
+    
+    color: rgb(119, 114, 114);
+}
+.p1{
+    text-align: left;
+    padding: 70;
+    
+}
+.p2{
+    text-align: left;
+}
+.p3{
+    text-align: left;
+}
+.p4{
+    text-align: left;
+}
+.count{
+    background-color:rgb(39,85,233);
+    width: 100;
+    display: flex;
+    padding: 50px;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.din,.img{
+        
+        text-align: center;
+        color:white;
+    }
+.numlm{
+        color:rgb(59, 238, 59);
+}
+.fam,img{
+    text-align: center;
+    color:white;
+}
+.med,.img{
+    text-align: center;
+    color:white;
+
+}
+.edu ,.img{
+    text-align: center;
+    color:white;
+
+
+}
+
+.what-int{
+    color: rgb(49,109,195);
+}
+.what-are{
+    color: green;
+}
+.what{
+    text-align: center;
+}
+
+.card p{
+   color:rgb(49,109,195);
+   font-weight: 700;
+}
+.card div{
+    width: 27%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    margin: 10px 10px 10px 10px;
+    padding: 30px 0px 0px 0px;
+    
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.20);
+}
+.card{
+    text-align: center;
+}
+.for-space{
+    margin: 6em;
+}
+.m-t{
+    color: #2750d6;
+    text-align: center;
+    
+
+}
+.hep-t, .hos-s-t{
+    color:rgb(49,109,195);
+}
+.breadcrumb{
+    display: flex;
+    margin: 89;
+    flex-direction: row;
+    font: 1em sans-serif;
+    text-align: center;
+    justify-content:space-around;
+}
+.hep-c, .hos-s{
+    background-color: rgb(225,226,227);
+}
+.it-t,.tpk-t{
+      color:rgb(39,85,233);
+}
+.pra-breadcrumb{
+    display: flex;
+    flex-direction: row;
+}
+.breadcrumb1{
+    display: flex;
+    margin: 89;
+    flex-direction: row;
+    font: 1em sans-serif;
+    text-align: center;
+    justify-content:space-around;
+}
+.up-d{
+    color: #666666;
+}
+.upcc{
+    color: rgb(49,109,195);
+    padding-bottom: 30px;
+    margin: 0px 0px 10px;
+    font: 32px merriweather serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tx{
+    color: rgb(49,109,195);
+    padding-bottom: 30px;
+    margin: 0px 0px 10px;
+    font: 20px merriweather serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img-int{
+    color: rgb(49,109,195);
+    padding-bottom: 30px;
+    margin: 0px 0px 10px;
+    font: 32px merriweather serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img-are{
+    color:#427900;
+}
+
+.img-g{
+    text-align: center;
+}
+.img-pkt{
+    display: flex;
+    padding: 1% 10%  15%;
+    font: 32px merriweather serif;
+    margin: 0px;
+    
+}
+
+.rig{
+text-align: center;
+}
+.footer-plu{
+    
+    background-color: rgb(49,109,195);
+   
+} 
+
+.up-d{
+    font: 14px "open sans" ,sans-serif;
+    color: #666666;
+   
+  
+}
+.htm-d{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid rgb(241, 241, 241);
+    background-color: rgb(247, 247, 247);
+    width: 35%;
+    float: left;
+}
+.up-d h3{
+    color: rgb(49,109,195);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.mucp-d{
+    margin: 0px 0px 30px ;
+    padding: 0px 0px 30px;
+    color: rgb(49,109,195);
+    font: 24px merriweather ,serif;
+}
+
+.main-div {
+    display: flex;
+    flex: right;
+    text-align: center;
+    justify-content: center;
+    margin:0% ;
+    padding-top: 60px;
+}
+
+.cntr-footer{
+    width: 20%;
+    font: 14px;
+    font-family: sans-serif;
+    margin: 0px 0px 20px;
+    padding: 0px 0px 10px;
+    
+      
+}
+.up-d h3 upcc {
+    padding-bottom: 30px;
+  border-bottom: 5px solid green;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+} 
+.footer-bot{
+    background-color: rgb(49,109,195);
+    padding: 10px;
+ 
+}
+.footer-bot p{
+  padding: 15px 15px 10px;
+  margin: 0px 80px;
+}
+
+
+
+
+
+
+
+
+
